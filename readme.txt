@@ -9,3 +9,4 @@ creating a new branch is quick AND simple
 >>>>>>> feature1
 creating a new branch is quick and simple
 test no-ff merge
+test the diff butween ff merge and no-ff merge
